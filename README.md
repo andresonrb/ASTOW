@@ -1,2 +1,3 @@
-# ASTOW
-Automated Support for The Old Web
+# ASTOW - Automated Support for The Old Web
+----------------------------------------------------------------------------------
+
